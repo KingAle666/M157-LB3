@@ -1,282 +1,36 @@
-[11:03:43] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:03:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:03:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:03:43] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:03:43] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:03:43] [main/INFO]: Reloading ResourceManager: Default
-[11:03:43] [Worker-Main-14/INFO]: Loaded 7 recipes
-[11:03:44] [Worker-Main-14/INFO]: Loaded 927 advancements
-[11:03:45] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[11:03:45] [Server thread/INFO]: Loading properties
-[11:03:45] [Server thread/INFO]: Default game type: SURVIVAL
-[11:03:45] [Server thread/INFO]: Generating keypair
-[11:03:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:03:45] [Server thread/INFO]: Using default channel type
-[11:03:46] [Server thread/INFO]: Preparing level "world"
-[11:03:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:03:48] [Server thread/INFO]: Preparing spawn area: 0%
-[11:03:48] [Server thread/INFO]: Preparing spawn area: 0%
-[11:03:48] [Server thread/INFO]: Preparing spawn area: 0%
-[11:03:48] [Server thread/INFO]: Preparing spawn area: 0%
-[11:03:48] [Server thread/INFO]: Preparing spawn area: 0%
-[11:03:49] [Server thread/INFO]: Time elapsed: 3284 ms
-[11:03:49] [Server thread/INFO]: Done (3.403s)! For help, type "help"
-[11:04:25] [User Authenticator #1/INFO]: UUID of player Chimalman is 6512d7bb-0fa6-413b-9c27-1101662da425
-[11:04:25] [Server thread/INFO]: Chimalman[/188.155.4.102:52722] logged in with entity id 120 at (253.5, 72.0, -178.5)
-[11:04:25] [Server thread/INFO]: Chimalman joined the game
-[11:04:28] [User Authenticator #2/INFO]: UUID of player KingAle66 is 07f6dcea-8e4e-4c26-a694-55c28769a7fd
-[11:04:28] [Server thread/INFO]: KingAle66[/192.168.1.185:65352] logged in with entity id 251 at (265.30000001192093, 77.0, -464.4826964063943)
-[11:04:28] [Server thread/INFO]: KingAle66 joined the game
-[11:04:44] [User Authenticator #3/INFO]: UUID of player FetsLuck420 is b472196e-fe14-4608-a470-06aadc80ec66
-[11:04:44] [Server thread/INFO]: FetsLuck420[/77.58.172.92:50639] logged in with entity id 540 at (261.5, 72.0, -177.5)
-[11:04:44] [Server thread/INFO]: FetsLuck420 joined the game
-[11:05:07] [Server thread/INFO]: [Chimalman: Teleported FetsLuck420 to Chimalman]
-[11:05:14] [Server thread/INFO]: [Chimalman: Teleported Chimalman to KingAle66]
-[11:05:14] [Server thread/WARN]: Chimalman moved too quickly! 3.047211985430522,9.93894807274556,-281.78750002384186
-[11:05:20] [Server thread/INFO]: [Chimalman: Teleported FetsLuck420 to Chimalman]
-[11:05:38] [Server thread/INFO]: KingAle66 has made the advancement [Take Aim]
-[11:05:52] [Server thread/INFO]: Chimalman has made the advancement [Stone Age]
-[11:06:02] [Server thread/INFO]: KingAle66 lost connection: Disconnected
-[11:06:02] [Server thread/INFO]: KingAle66 left the game
-[11:06:07] [Server thread/INFO]: Chimalman has made the advancement [Getting an Upgrade]
-[11:06:12] [User Authenticator #4/INFO]: UUID of player KingAle66 is 07f6dcea-8e4e-4c26-a694-55c28769a7fd
-[11:06:12] [Server thread/INFO]: KingAle66[/192.168.1.185:65408] logged in with entity id 738 at (265.69309290703586, 77.0, -464.69999998807907)
-[11:06:12] [Server thread/INFO]: KingAle66 joined the game
-[11:06:19] [Server thread/INFO]: Chimalman has made the advancement [Acquire Hardware]
-[11:06:23] [Server thread/INFO]: FetsLuck420 has made the advancement [Stone Age]
-[11:07:43] [Server thread/INFO]: Chimalman has made the advancement [Suit Up]
-[11:07:55] [Server thread/INFO]: FetsLuck420 has made the advancement [Acquire Hardware]
-[11:08:27] [Server thread/INFO]: FetsLuck420 has made the advancement [Suit Up]
-[11:08:44] [Server thread/INFO]: Chimalman has made the advancement [Isn't It Iron Pick]
-[11:09:35] [Server thread/INFO]: [Chimalman: The difficulty has been set to Normal]
-[11:09:37] [Server thread/INFO]: KingAle66 has made the advancement [We Need to Go Deeper]
-[11:10:07] [Server thread/INFO]: Chimalman fell from a high place
-[11:10:11] [Server thread/INFO]: Chimalman has made the advancement [We Need to Go Deeper]
-[11:10:11] [Server thread/INFO]: [Chimalman: Teleported Chimalman to KingAle66]
-[11:10:20] [Server thread/INFO]: [Chimalman: Teleported Chimalman to FetsLuck420]
-[11:11:03] [Server thread/INFO]: FetsLuck420 has made the advancement [Isn't It Iron Pick]
-[11:11:39] [Server thread/INFO]: FetsLuck420 has made the advancement [We Need to Go Deeper]
-[11:12:13] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[11:12:43] [Server thread/INFO]: Chimalman has made the advancement [Monster Hunter]
-[11:13:12] [Server thread/INFO]: [Chimalman: Teleported FetsLuck420 to Chimalman]
-[11:13:24] [Server thread/INFO]: Villager bfj['Villager'/269, l='ServerLevel[Alessio]', x=272.15, y=57.00, z=-485.09] died, message: 'Villager was slain by Zombie'
-[11:21:08] [Server thread/INFO]: Villager bfj['Villager'/325, l='ServerLevel[Alessio]', x=194.45, y=64.00, z=-320.46] died, message: 'Villager was slain by Zombie'
-[11:23:52] [Server thread/INFO]: Villager bfj['Villager'/264, l='ServerLevel[Alessio]', x=255.68, y=71.00, z=-454.21] died, message: 'Villager was slain by Zombie'
-[11:25:33] [Server thread/INFO]: [Chimalman: Teleported KingAle66 to Chimalman]
-[11:25:33] [Server thread/WARN]: KingAle66 moved too quickly! -81.7567953837086,20.82324072493576,-78.80546611727328
-[11:25:33] [Server thread/WARN]: KingAle66 moved too quickly! -81.7567953837086,20.82324072493576,-78.80546611727328
-[11:25:49] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[11:30:54] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[11:33:44] [Server thread/INFO]: [Chimalman: Teleported FetsLuck420 to Chimalman]
-[11:33:47] [Server thread/INFO]: FetsLuck420 lost connection: Timed out
-[11:33:47] [Server thread/INFO]: FetsLuck420 left the game
-[11:33:56] [User Authenticator #5/INFO]: UUID of player FetsLuck420 is b472196e-fe14-4608-a470-06aadc80ec66
-[11:33:56] [Server thread/INFO]: FetsLuck420[/77.58.172.92:51077] logged in with entity id 6730 at (266.69999998807907, 77.5625, -464.1795142232688)
-[11:33:56] [Server thread/INFO]: FetsLuck420 joined the game
-[11:35:08] [Server thread/INFO]: Chimalman has made the advancement [The Parrots and the Bats]
-[11:36:30] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[11:37:13] [Server thread/INFO]: Chimalman has made the advancement [Not Today, Thank You]
-[11:40:16] [Server thread/INFO]: Chimalman has made the advancement [A Seedy Place]
-[11:41:33] [Server thread/INFO]: <Chimalman> w
-[11:41:34] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[11:43:14] [Server thread/INFO]: Villager bfj['Villager'/422, l='ServerLevel[Alessio]', x=282.30, y=67.00, z=-368.45] died, message: 'Villager was slain by FetsLuck420'
-[11:43:49] [Server thread/INFO]: Villager bfj['Farmer'/421, l='ServerLevel[Alessio]', x=253.01, y=64.00, z=-391.09] died, message: 'Farmer was slain by FetsLuck420'
-[11:45:29] [Server thread/INFO]: [Chimalman: Teleported Chimalman to KingAle66]
-[11:45:29] [Server thread/WARN]: Chimalman moved too quickly! -209.14395745166996,-23.0,-187.18722069731274
-[11:46:38] [Server thread/INFO]: [Chimalman: Teleported FetsLuck420 to Chimalman]
-[11:46:42] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[11:47:22] [Server thread/INFO]: KingAle66 has made the advancement [The Parrots and the Bats]
-[11:48:08] [Server thread/INFO]: Villager bfj['Farmer'/331, l='ServerLevel[Alessio]', x=255.17, y=65.00, z=-439.65] died, message: 'Farmer was slain by FetsLuck420'
-[11:48:37] [Server thread/INFO]: KingAle66 has made the advancement [A Seedy Place]
-[11:52:57] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[11:56:12] [Server thread/INFO]: KingAle66 lost connection: Disconnected
-[11:56:12] [Server thread/INFO]: KingAle66 left the game
-[11:57:50] [Server thread/INFO]: [Chimalman: Set the time to 1000]
-[11:58:02] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[12:00:45] [Server thread/INFO]: [Chimalman: Teleported FetsLuck420 to Chimalman]
-[12:05:12] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[12:08:12] [Server thread/INFO]: FetsLuck420 has made the advancement [Sweet Dreams]
-[12:09:14] [Server thread/INFO]: [Chimalman: Set the time to 1000]
-[12:10:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=321, y=71, z=-267} fx{x=322, y=71, z=-266}
-[12:10:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=321, y=71, z=-267} fx{x=322, y=71, z=-266}
-[12:10:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=321, y=71, z=-267} fx{x=322, y=71, z=-266}
-[12:10:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=321, y=71, z=-260} fx{x=321, y=72, z=-259}
-[12:10:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=321, y=71, z=-260} fx{x=321, y=72, z=-259}
-[12:10:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=321, y=71, z=-260} fx{x=321, y=72, z=-259}
-[12:10:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=321, y=71, z=-260} fx{x=321, y=72, z=-259}
-[12:10:19] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[12:16:35] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[12:16:36] [Server thread/INFO]: Chimalman lost connection: Disconnected
-[12:16:36] [Server thread/INFO]: Chimalman left the game
-[12:40:59] [User Authenticator #6/INFO]: UUID of player Chimalman is 6512d7bb-0fa6-413b-9c27-1101662da425
-[12:40:59] [Server thread/INFO]: Chimalman[/188.155.4.102:53396] logged in with entity id 16402 at (303.89998766555027, 73.0, -261.4608705063654)
-[12:40:59] [Server thread/INFO]: Chimalman joined the game
-[12:46:12] [Server thread/INFO]: [Chimalman: Set the time to 1000]
-[12:51:28] [Server thread/INFO]: Chimalman lost connection: Disconnected
-[12:51:28] [Server thread/INFO]: Chimalman left the game
-[13:06:06] [Server thread/INFO]: FetsLuck420 lost connection: Disconnected
-[13:06:06] [Server thread/INFO]: FetsLuck420 left the game
-[13:59:12] [User Authenticator #7/INFO]: UUID of player Chimalman is 6512d7bb-0fa6-413b-9c27-1101662da425
-[13:59:12] [Server thread/INFO]: Chimalman[/188.155.4.102:54256] logged in with entity id 19203 at (304.0316198017588, 80.0, -275.6618723502406)
-[13:59:12] [Server thread/INFO]: Chimalman joined the game
-[14:00:44] [Server thread/INFO]: [Chimalman: Set the time to 1000]
-[14:05:21] [Server thread/INFO]: Chimalman has made the advancement [Hot Stuff]
-[14:05:22] [User Authenticator #8/INFO]: UUID of player FetsLuck420 is b472196e-fe14-4608-a470-06aadc80ec66
-[14:05:22] [Server thread/INFO]: FetsLuck420[/77.58.172.92:53758] logged in with entity id 20391 at (307.9101688920689, 94.0, -280.2335982895076)
-[14:05:22] [Server thread/INFO]: FetsLuck420 joined the game
-[14:13:48] [Server thread/INFO]: [Chimalman: Set the time to 1000]
-[14:16:43] [Server thread/INFO]: Chimalman has made the advancement [Diamonds!]
-[14:19:59] [Server thread/INFO]: [Chimalman: Teleported Chimalman to FetsLuck420]
-[14:19:59] [Server thread/WARN]: Chimalman moved too quickly! 54.58139228707819,17.0625,180.95371999072404
-[14:23:24] [Server thread/INFO]: FetsLuck420 fell from a high place
-[14:23:37] [Server thread/INFO]: [Chimalman: Teleported FetsLuck420 to Chimalman]
-[14:23:37] [Server thread/WARN]: FetsLuck420 moved too quickly! 46.777071624103826,23.0,-102.38138680322237
-[14:23:56] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[14:25:11] [User Authenticator #9/INFO]: UUID of player KingAle66 is 07f6dcea-8e4e-4c26-a694-55c28769a7fd
-[14:25:11] [Server thread/INFO]: KingAle66[/192.168.1.185:62142] logged in with entity id 24482 at (269.1802209298267, 77.0, -463.3608139589657)
-[14:25:11] [Server thread/INFO]: KingAle66 joined the game
-[14:25:22] [Server thread/INFO]: [Chimalman: Teleported KingAle66 to Chimalman]
-[14:25:22] [Server thread/WARN]: KingAle66 moved too quickly! 35.90392716633869,0.0,197.5911447826495
-[14:26:14] [Server thread/INFO]: Chimalman has made the advancement [Sweet Dreams]
-[14:29:01] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[14:30:06] [Server thread/INFO]: Chimalman lost connection: Disconnected
-[14:30:06] [Server thread/INFO]: Chimalman left the game
-[14:45:22] [Server thread/INFO]: FetsLuck420 fell from a high place
-[14:48:32] [User Authenticator #10/INFO]: UUID of player Chimalman is 6512d7bb-0fa6-413b-9c27-1101662da425
-[14:48:32] [Server thread/INFO]: Chimalman[/188.155.4.102:49294] logged in with entity id 29179 at (318.6403033614825, 66.0, -289.6242959845664)
-[14:48:32] [Server thread/INFO]: Chimalman joined the game
-[14:48:36] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[14:50:01] [Server thread/INFO]: [Chimalman: Teleported KingAle66 to Chimalman]
-[14:50:01] [Server thread/WARN]: KingAle66 moved too quickly! 2.634858553253821,82.0,106.1456588042679
-[14:50:01] [Server thread/WARN]: KingAle66 moved too quickly! 2.634858553253821,82.0,106.1456588042679
-[14:52:43] [Server thread/INFO]: [Chimalman: Teleported FetsLuck420 to Chimalman]
-[14:52:43] [Server thread/WARN]: FetsLuck420 moved too quickly! 152.0,-12.0,-3.8228010630331823
-[14:53:45] [Server thread/INFO]: Chimalman fell from a high place
-[14:55:02] [Server thread/INFO]: FetsLuck420 has made the advancement [Monster Hunter]
-[14:55:04] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[14:56:12] [Server thread/INFO]: Chimalman was slain by Enderman
-[15:00:28] [Server thread/INFO]: [Chimalman: Teleported FetsLuck420 to Chimalman]
-[15:00:50] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[15:01:37] [Server thread/INFO]: <Chimalman> perfekt
-[15:01:40] [Server thread/INFO]: <Chimalman> alter
-[15:03:20] [Server thread/INFO]: <Chimalman> bruche knoche
-[15:06:24] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[15:10:20] [Server thread/INFO]: KingAle66 fell from a high place
-[15:10:42] [Server thread/INFO]: KingAle66 was shot by Skeleton
-[15:11:32] [Server thread/INFO]: Chimalman has made the advancement [Ice Bucket Challenge]
-[15:12:03] [Server thread/INFO]: Villager bfj['Farmer'/265, l='ServerLevel[Alessio]', x=257.85, y=65.00, z=-388.96] was struck by lightning aql['Lightning Bolt'/32848, l='ServerLevel[Alessio]', x=257.50, y=65.00, z=-389.50].
-[15:12:28] [Server thread/INFO]: Chimalman has made the advancement [Enchanter]
-[15:13:33] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[15:13:35] [Server thread/INFO]: KingAle66 lost connection: Disconnected
-[15:13:35] [Server thread/INFO]: KingAle66 left the game
-[15:14:39] [User Authenticator #11/INFO]: UUID of player KingAle66 is 07f6dcea-8e4e-4c26-a694-55c28769a7fd
-[15:14:39] [Server thread/INFO]: KingAle66[/192.168.1.185:63792] logged in with entity id 33442 at (349.30000001192093, 67.0, -275.3502576934156)
-[15:14:39] [Server thread/INFO]: KingAle66 joined the game
-[15:15:13] [Server thread/INFO]: [Chimalman: Teleported FetsLuck420 to Chimalman]
-[15:15:13] [Server thread/WARN]: FetsLuck420 moved too quickly! 189.67438270887777,-12.0,-5.3406195124456985
-[15:16:21] [Server thread/INFO]: KingAle66 has made the advancement [Cover Me With Diamonds]
-[15:18:53] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[15:19:01] [Server thread/INFO]: FetsLuck420 has made the advancement [Enchanter]
-[15:21:15] [Server thread/INFO]: [Chimalman: Teleported FetsLuck420 to Chimalman]
-[15:21:15] [Server thread/WARN]: FetsLuck420 moved too quickly! -15.30604749460997,-30.5625,-56.14437949560431
-[15:22:10] [Server thread/INFO]: FetsLuck420 was slain by Zombie
-[15:22:15] [Server thread/INFO]: [Chimalman: Teleported FetsLuck420 to Chimalman]
-[15:22:15] [Server thread/WARN]: FetsLuck420 moved too quickly! -62.14600043128593,-26.5625,11.54756430274665
-[15:23:57] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[15:26:39] [Server thread/INFO]: [Chimalman: Teleported KingAle66 to Chimalman]
-[15:27:26] [Server thread/INFO]: [Chimalman: Set 10 experience levels on KingAle66]
-[15:27:31] [Server thread/INFO]: [Chimalman: Set 10 experience levels on KingAle66]
-[15:27:36] [Server thread/INFO]: [Chimalman: Set 18 experience levels on KingAle66]
-[15:27:42] [Server thread/INFO]: KingAle66 has made the advancement [Enchanter]
-[15:29:01] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[15:34:07] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[15:34:40] [Server thread/INFO]: Chimalman lost connection: Disconnected
-[15:34:40] [Server thread/INFO]: Chimalman left the game
-[15:35:33] [Server thread/INFO]: KingAle66 lost connection: Disconnected
-[15:35:33] [Server thread/INFO]: KingAle66 left the game
-[15:35:38] [Server thread/INFO]: FetsLuck420 lost connection: Disconnected
-[15:35:38] [Server thread/INFO]: FetsLuck420 left the game
-[16:05:05] [User Authenticator #12/INFO]: UUID of player Chimalman is 6512d7bb-0fa6-413b-9c27-1101662da425
-[16:05:06] [Server thread/INFO]: Chimalman[/188.155.4.102:49916] logged in with entity id 37381 at (311.58320020322344, 94.0, -270.1210208042921)
-[16:05:06] [Server thread/INFO]: Chimalman joined the game
-[16:06:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=309, y=97, z=-273} fx{x=309, y=97, z=-271}
-[16:06:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=309, y=97, z=-273} fx{x=309, y=97, z=-271}
-[16:09:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=329, y=62, z=-255} fx{x=329, y=63, z=-256}
-[16:09:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=324, y=67, z=-261} fx{x=324, y=66, z=-261}
-[16:09:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=324, y=68, z=-261} fx{x=326, y=66, z=-262}
-[16:10:43] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=308, y=65, z=-245} fx{x=308, y=65, z=-246}
-[16:18:43] [Server thread/INFO]: Chimalman lost connection: Disconnected
-[16:18:43] [Server thread/INFO]: Chimalman left the game
-[16:29:11] [User Authenticator #13/INFO]: UUID of player Chimalman is 6512d7bb-0fa6-413b-9c27-1101662da425
-[16:29:11] [Server thread/INFO]: Chimalman[/188.155.4.102:50107] logged in with entity id 39337 at (304.80326794096305, 82.5, -279.91188482341835)
-[16:29:11] [Server thread/INFO]: Chimalman joined the game
-[16:30:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=343, y=63, z=-227} fx{x=341, y=63, z=-227}
-[16:30:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=343, y=63, z=-227} fx{x=341, y=63, z=-227}
-[16:32:30] [Server thread/INFO]: Chimalman has made the advancement [Best Friends Forever]
-[16:37:34] [Server thread/INFO]: [Chimalman: Set the time to 1000]
-[16:46:54] [Server thread/INFO]: [Chimalman: The difficulty has been set to Peaceful]
-[17:06:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=477, y=72, z=-336} fx{x=477, y=72, z=-337}
-[17:06:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=480, y=70, z=-334} fx{x=479, y=69, z=-333}
-[17:06:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=480, y=70, z=-334} fx{x=479, y=69, z=-333}
-[17:06:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=480, y=70, z=-334} fx{x=479, y=69, z=-333}
-[17:06:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=480, y=70, z=-334} fx{x=479, y=69, z=-333}
-[17:06:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=480, y=70, z=-334} fx{x=479, y=69, z=-333}
-[17:06:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=480, y=70, z=-334} fx{x=479, y=69, z=-333}
-[17:06:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=480, y=70, z=-334} fx{x=479, y=69, z=-333}
-[17:06:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=480, y=70, z=-334} fx{x=479, y=69, z=-333}
-[17:06:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=480, y=70, z=-334} fx{x=479, y=69, z=-333}
-[17:06:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=480, y=70, z=-334} fx{x=479, y=69, z=-333}
-[17:06:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=479, y=68, z=-336} fx{x=480, y=68, z=-335}
-[17:06:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=473, y=70, z=-329} fx{x=472, y=69, z=-330}
-[17:06:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=473, y=70, z=-329} fx{x=472, y=69, z=-330}
-[17:06:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=473, y=70, z=-329} fx{x=472, y=69, z=-330}
-[17:06:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=475, y=68, z=-329} fx{x=476, y=67, z=-330}
-[17:07:39] [User Authenticator #14/INFO]: UUID of player KingAle66 is 07f6dcea-8e4e-4c26-a694-55c28769a7fd
-[17:07:39] [Server thread/INFO]: KingAle66[/192.168.1.185:65296] logged in with entity id 42748 at (310.41147635856305, 94.0, -272.92977989551514)
-[17:07:39] [Server thread/INFO]: KingAle66 joined the game
-[17:08:48] [Server thread/INFO]: <Chimalman> HOI
-[17:08:54] [Server thread/INFO]: <KingAle66> hoi
-[17:09:12] [Server thread/INFO]: <Chimalman> Wie gahts
-[17:10:23] [Server thread/INFO]: <KingAle66> chasch en ankor mache?
-[17:10:30] [Server thread/INFO]: <Chimalman> bruched eisen
-[17:10:34] [Server thread/INFO]: <Chimalman> de luca sicher alles verlore
-[17:11:00] [Server thread/INFO]: <Chimalman> vo wo hesh die bone stein gha?
-[17:11:06] [Server thread/INFO]: <KingAle66> nether
-[17:11:48] [Server thread/INFO]: <Chimalman> portal immerno im dorf?
-[17:11:53] [Server thread/INFO]: <KingAle66> ja
-[17:15:22] [Server thread/INFO]: [Chimalman: Teleported Chimalman to KingAle66]
-[17:16:14] [Server thread/INFO]: <KingAle66> chasch mer wieder lvl geh? ;)
-[17:16:36] [Server thread/INFO]: [Chimalman: Set 15 experience levels on KingAle66]
-[17:16:39] [Server thread/INFO]: <Chimalman> :)
-[17:18:17] [Server thread/INFO]: [Chimalman: Set 11 experience points on KingAle66]
-[17:18:20] [Server thread/INFO]: [Chimalman: Set 11 experience points on KingAle66]
-[17:18:21] [Server thread/INFO]: [Chimalman: Set 11 experience points on KingAle66]
-[17:18:27] [Server thread/INFO]: [Chimalman: Set 15 experience levels on KingAle66]
-[17:26:14] [Server thread/INFO]: [Chimalman: Teleported KingAle66 to Chimalman]
-[17:26:14] [Server thread/WARN]: KingAle66 moved too quickly! 440.05814265524225,-6.419999986886978,-121.93896726589605
-[17:26:14] [Server thread/WARN]: KingAle66 moved too quickly! 440.05814265524225,-6.419999986886978,-121.93896726589605
-[17:26:14] [Server thread/WARN]: KingAle66 moved too quickly! 440.05814265524225,-6.419999986886978,-121.93896726589605
-[17:26:14] [Server thread/WARN]: KingAle66 moved too quickly! 440.05814265524225,-6.419999986886978,-121.93896726589605
-[17:42:11] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[17:47:17] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[17:48:32] [Server thread/INFO]: [Chimalman: The difficulty has been set to Normal]
-[17:48:59] [Server thread/INFO]: [Chimalman: The difficulty has been set to Peaceful]
-[17:49:03] [Server thread/INFO]: [Chimalman: The difficulty has been set to Easy]
-[17:53:15] [Server thread/INFO]: [Chimalman: Set the weather to clear]
-[17:53:57] [Server thread/INFO]: [Chimalman: Set the time to 1000]
-[17:54:58] [Server thread/INFO]: KingAle66 lost connection: Disconnected
-[17:54:58] [Server thread/INFO]: KingAle66 left the game
-[17:55:10] [Server thread/INFO]: Chimalman lost connection: Disconnected
-[17:55:10] [Server thread/INFO]: Chimalman left the game
-[23:01:01] [Server thread/INFO]: Stopping server
-[23:01:01] [Server thread/INFO]: Saving players
-[23:01:01] [Server thread/INFO]: Saving worlds
-[23:01:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Alessio]'/minecraft:overworld
-[23:01:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:01:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Alessio]'/minecraft:the_nether
-[23:01:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:01:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Alessio]'/minecraft:the_end
-[23:01:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:01:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:01:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:01:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:39:00] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:39:01] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:39:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:39:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:39:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:39:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:39:01] [main/INFO]: Reloading ResourceManager: Default
+[00:39:01] [Worker-Main-14/INFO]: Loaded 7 recipes
+[00:39:02] [Worker-Main-14/INFO]: Loaded 927 advancements
+[00:39:03] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[00:39:03] [Server thread/INFO]: Loading properties
+[00:39:03] [Server thread/INFO]: Default game type: SURVIVAL
+[00:39:03] [Server thread/INFO]: Generating keypair
+[00:39:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:39:03] [Server thread/INFO]: Using default channel type
+[00:39:03] [Server thread/INFO]: Preparing level "world"
+[00:39:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:39:04] [Server thread/INFO]: Preparing spawn area: 0%
+[00:39:04] [Server thread/INFO]: Preparing spawn area: 0%
+[00:39:04] [Server thread/INFO]: Preparing spawn area: 0%
+[00:39:05] [Server thread/INFO]: Preparing spawn area: 0%
+[00:39:05] [Worker-Main-14/INFO]: Preparing spawn area: 41%
+[00:39:06] [Server thread/INFO]: Preparing spawn area: 70%
+[00:39:07] [Server thread/INFO]: Preparing spawn area: 72%
+[00:39:07] [Worker-Main-13/INFO]: Preparing spawn area: 76%
+[00:39:08] [Server thread/INFO]: Preparing spawn area: 76%
+[00:39:08] [Worker-Main-14/INFO]: Preparing spawn area: 76%
+[00:39:08] [Server thread/INFO]: Time elapsed: 4863 ms
+[00:39:08] [Server thread/INFO]: Done (4.962s)! For help, type "help"
+[00:39:19] [User Authenticator #1/INFO]: UUID of player KingAle66 is 07f6dcea-8e4e-4c26-a694-55c28769a7fd
+[00:39:19] [Server thread/INFO]: KingAle66[/192.168.1.185:61386] logged in with entity id 148 at (1747.5, 75.5, 500.5)
+[00:39:19] [Server thread/INFO]: KingAle66 joined the game
+[00:39:22] [Server thread/INFO]: KingAle66 fell from a high place
+[00:39:54] [Server thread/INFO]: [KingAle66: Set own game mode to Creative Mode]
+[00:40:46] [Server thread/INFO]: KingAle66 lost connection: Disconnected
+[00:40:46] [Server thread/INFO]: KingAle66 left the game
